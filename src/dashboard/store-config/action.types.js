@@ -1,0 +1,11 @@
+export const ACTION_SET_BOOK_TABLE_DATA = 'actionSetBookTableData'
+export const ACTION_SET_BOOK_AUTHOR_OPTIONS = 'actionSetBookAuthorOptions'
+export const ACTION_SET_BOOK_ROW_DATA_DETAILS = 'actionSetBookRowDataDetails'
+export const ACTION_SET_AUTHOR_TABLE_DATA = 'actionSetAuthorTableData'
+export const ACTION_SET_AUTHOR_ROW_DATA_DETAILS = 'actionSetAuthorRowDataDetails'
+export const ACTION_SET_BOOK_ADD = 'actionSetBookAdd';
+export const ACTION_SET_BOOK_UPDATE = 'actionSetBookUpdate';
+export const ACTION_SET_AUTHOR_ADD = 'actionSetAuthorAdd';
+export const ACTION_SET_AUTHOR_UPDATE = 'actionSetAuthorUpdate';
+export const ACTION_SET_BOOK_ROW_TO_UPDATE = 'actionSetBookRowToUpdate'
+export const ACTION_SET_AUTHOR_ROW_TO_UPDATE = 'actionSetAuthorRowToUpdate'

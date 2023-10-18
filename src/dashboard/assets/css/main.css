@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+:root, body, html, *{
+    font-family: 'Poppins' !important;
+}
+
+:root, body, html, #__nuxt,#__layout {
+    height: 100%;
+    width: 100%;
+}
+
+.no-shadow-focus:focus {
+    box-shadow: none;
+}
+
+.table thead th,
+.table td {
+    vertical-align: bottom;
+}
